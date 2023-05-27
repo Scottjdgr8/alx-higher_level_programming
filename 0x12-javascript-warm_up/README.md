@@ -1,1 +1,1 @@
-java script by Scottjdgr8 from Nigeria 
+# 0x12-javascript-warm_up
